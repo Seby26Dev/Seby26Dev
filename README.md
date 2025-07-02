@@ -11,10 +11,15 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 
 | Labs                                         | Labs Writeup          |
 |-----------------------------------------------|----------------------------|
-| -          | <a href="https://google.com">Detection Lab</a>|
+| [ THM ] Lo-Fi          | <a href="https://github.com/Seby26Dev/-THM-Lo-Fi"> Walkthrough </a>|
 
 
 
 
-## Projects
--
+## Easy CTF
+ <a href="https://github.com/Seby26Dev/-THM-Lo-Fi"> Lo-Fi </a>
+
+## Medium CTF
+
+
+## Hard CTF
