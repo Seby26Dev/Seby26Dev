@@ -17,7 +17,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 
 
 ## Easy CTF
- <a href="https://github.com/Seby26Dev/-THM-Lo-Fi"> Lo-Fi </a>
+ __THM__ -> <a href="https://github.com/Seby26Dev/-THM-Lo-Fi"> Lo-Fi </a>
 
 ## Medium CTF
 
