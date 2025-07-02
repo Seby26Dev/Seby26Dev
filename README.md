@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hy , I m Sebi
+<a href="https://linkedin.com/in/stan-sebastian-undefined-89263b333/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**Seby26Dev/Seby26Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I m a student passionate about cybersecurity . Working consistently to improve my skills.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main goal is to explore the world of cybersecurity, learn new practical skills, and solve Capture The Flag (CTF) to deepen my knowledge with hands-on experience
+
+## Labs
+
+| Labs                                         | Labs Writeup          |
+|-----------------------------------------------|----------------------------|
+| -          | <a href="https://google.com">Detection Lab</a>|
+
+
+
+
+## Projects
+- Detection Lab
+- SOC Automation Project
