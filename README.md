@@ -17,5 +17,4 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+-
