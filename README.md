@@ -12,13 +12,14 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | Labs                                         | Labs Writeup          |
 |-----------------------------------------------|----------------------------|
 | [ THM ] Lo-Fi          | <a href="https://github.com/Seby26Dev/-THM-Lo-Fi"> Walkthrough </a>|
-
+| [ THM ] Ignite           |<a href="https://github.com/Seby26Dev/-THM-Ignite"> Walkthrough </a>|
 
 
 
 ## Easy CTF
  __THM__ -> <a href="https://github.com/Seby26Dev/-THM-Lo-Fi"> Lo-Fi </a>
-
+ 
+__THM__ -> <a href="https://github.com/Seby26Dev/-THM-Ignite"> Ignite </a>
 ## Medium CTF
 
 
