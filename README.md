@@ -1,4 +1,4 @@
-# Sebi
+# Hi! I'm Sebi.
 <a href="https://linkedin.com/in/stan-sebastian-undefined-89263b333/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I m a student passionate about cybersecurity . Working consistently to improve my skills.
