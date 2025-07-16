@@ -13,7 +13,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 |-----------------------------------------------|----------------------------|
 | [ THM ] Lo-Fi          | <a href="https://github.com/Seby26Dev/-THM-Lo-Fi"> Walkthrough </a>|
 | [ THM ] Ignite           |<a href="https://github.com/Seby26Dev/-THM-Ignite"> Walkthrough </a>|
-| Summer Scool | <a href="https://github.com/Seby26Dev/SSSV12/tree/main"> Walkthrough </a>  ( Not Translated )
+| Summer Scool Mid CTF | <a href="https://github.com/Seby26Dev/SSSV12/tree/main"> Walkthrough </a>  ( Not Translated )
 
 
 ## Easy CTF
