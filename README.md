@@ -22,6 +22,6 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
  
 __THM__ -> <a href="https://github.com/Seby26Dev/-THM-Ignite"> Ignite </a>
 ## Medium CTF
-__THM__ <a href="https://github.com/Seby26Dev/-THM-UltraTech"> UltraTech </a>
+__THM__ -> <a href="https://github.com/Seby26Dev/-THM-UltraTech"> UltraTech </a>
 
 ## Hard CTF
