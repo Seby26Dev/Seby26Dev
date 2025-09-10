@@ -20,7 +20,8 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] Blue             | <a href="https://github.com/Seby26Dev/-HTB-Blue/"> Walkthrough </a>|
 | [ HTB ] UnderPass           | <a href="https://github.com/Seby26Dev/-HTB-UnderPass"> Walkthrough </a>|
 | [ HTB ] LinkVortex           | <a href="https://github.com/Seby26Dev/-HTB-LinkVortex"> Walkthrough </a>|
-| Summer Scool Mid CTF | <a href="https://github.com/Seby26Dev/SSSV12/tree/main"> Walkthrough </a>  ( Not Translated )
+| [ HTB ] Soulmate         | <a href="https://github.com/Seby26Dev/-HTB-Soulmate/"> Active  </a> __(hints)__|
+| Summer Scool Mid CTF | <a href="https://github.com/Seby26Dev/SSSV12/tree/main"> Walkthrough </a>  __( Not Translated )__
 
 
 ## Easy CTF
