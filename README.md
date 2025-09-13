@@ -22,7 +22,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] LinkVortex           | <a href="https://github.com/Seby26Dev/-HTB-LinkVortex"> Walkthrough </a>|
 | [ HTB ] Soulmate         | <a href="https://github.com/Seby26Dev/-HTB-Soulmate/"> Active  </a> __(hints)__|
 | [ HTB ] Validation         | <a href="https://github.com/Seby26Dev/-HTB-Validation/"> Walkthrough <a> |
-| [ HTB ] EscapeTwo      | <a href="https://github.com/Seby26Dev/-HTB-EscapeTwo/" > Walkthrough <a> _.__( No root )___-> ___(IN PROGRESS)___ |
+| [ HTB ] EscapeTwo      | <a href="https://github.com/Seby26Dev/-HTB-EscapeTwo/" > Walkthrough <a> |
 | Summer Scool Mid CTF | <a href="https://github.com/Seby26Dev/SSSV12/tree/main"> Walkthrough </a>  __( Not Translated )__
 
 
