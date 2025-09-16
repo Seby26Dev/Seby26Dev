@@ -24,6 +24,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] Validation         | <a href="https://github.com/Seby26Dev/-HTB-Validation/"> Walkthrough <a> |
 | [ HTB ] EscapeTwo      | <a href="https://github.com/Seby26Dev/-HTB-EscapeTwo/" > Walkthrough <a> |
 | [ HTB ] Chemistry       | <a href="https://github.com/Seby26Dev/-HTB-Chemistry" >  Walkthrough <a> |
+| [ HTB ] Object          | <a href="https://github.com/Seby26Dev/-HTB-Object/" > Walkthrough <a> |
 | [ HTB ] Buff            | <a href="https://github.com/Seby26Dev/-HTB-Buff" >  Walkthrough <a> __(_No root)___ |
 | Summer Scool Mid CTF | <a href="https://github.com/Seby26Dev/SSSV12/tree/main"> Walkthrough </a>  __( Not Translated )__
 
@@ -53,4 +54,5 @@ __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Chemistry" > Chemistry <a>
 __THM__ ->  <a href="https://github.com/Seby26Dev/-THM-UltraTech"> UltraTech </a>
 
 ## Hard CTF
- Upcoming
+
+ __HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-Object/" > Object </a>
