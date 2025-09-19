@@ -29,6 +29,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ THM ]  Year of the Owl | <a href="https://github.com/Seby26Dev/-THM-Year-of-the-Owl/" >  Walkthrough <a> |
 | [ HTB ] Buff            | <a href="https://github.com/Seby26Dev/-HTB-Buff" >  Walkthrough <a> __(_No root)___ |
 | [ HTB ] TombWatcher      | <a href="https://github.com/Seby26Dev/-HTB-TombWatcher" > Active </a> __(hints)__|
+| [ HTB ]  Optimum        | <a href="https://github.com/Seby26Dev/-HTB-Optimum" > Walkthrough <a> |
 | Summer Scool Mid CTF | <a href="https://github.com/Seby26Dev/SSSV12/tree/main"> Walkthrough </a>  __( Not Translated )__
 
 
@@ -52,6 +53,9 @@ __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-EscapeTwo/" > EscapeTwo <a
 __HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-Buff" > Buff <a> 
 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Chemistry" > Chemistry <a> 
+
+__HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Optimum" > Optimum <a> 
+
 ## Medium CTF
 
 __THM__ ->  <a href="https://github.com/Seby26Dev/-THM-UltraTech"> UltraTech </a>
