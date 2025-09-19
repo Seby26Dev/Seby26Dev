@@ -18,6 +18,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ THM ] UltraTech         | <a href="https://github.com/Seby26Dev/-THM-UltraTech"> Walkthrough </a>|
 | [ HTB ] Jerry           | <a href="https://github.com/Seby26Dev/-HTB-Jerry"> Walkthrough </a>|
 | [ HTB ] Blue             | <a href="https://github.com/Seby26Dev/-HTB-Blue/"> Walkthrough </a>|
+| [ HTB ] Legacy           | <a href="https://github.com/Seby26Dev/-HTB-Legacy" > Walkthrough </a>|
 | [ HTB ] UnderPass           | <a href="https://github.com/Seby26Dev/-HTB-UnderPass"> Walkthrough </a>|
 | [ HTB ] LinkVortex           | <a href="https://github.com/Seby26Dev/-HTB-LinkVortex"> Walkthrough </a>|
 | [ HTB ] Soulmate         | <a href="https://github.com/Seby26Dev/-HTB-Soulmate/"> Active  </a> __(hints)__|
@@ -49,6 +50,8 @@ __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-LinkVortex"> LinkVortex </
 __HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-Validation/"> Validation <a>
 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-EscapeTwo/" > EscapeTwo <a>
+
+__HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Legacy" > Legacy </a>
 
 __HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-Buff" > Buff <a> 
 
