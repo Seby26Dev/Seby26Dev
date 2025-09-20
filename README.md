@@ -34,6 +34,18 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | Summer Scool Mid CTF | <a href="https://github.com/Seby26Dev/SSSV12/tree/main"> Walkthrough </a>  __( Not Translated )__
 
 
+
+
+| SEZ9 - HTB                                    | HINT         |
+|-----------------------------------------------|----------------------------|
+| [ HTB ] Expressway     | <a href="https://github.com/Seby26Dev/-HTB-SEZ9-Expressway/" > HINTs <a> |
+
+
+
+
+
+
+
 ## Easy CTF
  __THM__ ->  <a href="https://github.com/Seby26Dev/-THM-Lo-Fi"> Lo-Fi </a>
  
