@@ -9,6 +9,12 @@ I m a student passionate about cybersecurity . Working consistently to improve m
 
 My main goal is to explore the world of cybersecurity, learn new practical skills, and solve Capture The Flag (CTF) to deepen my knowledge with hands-on experience
 
+## Scripts 
+
+| SfLp |  Description |
+|-----| -------|
+| <a href="https://github.com/Seby26Dev/SfLp"> WoGr | WriteOwner -> Group -> GenericWrite |
+
 ## Labs
 
 | Labs                                         | Labs Writeup          |
