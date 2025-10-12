@@ -49,6 +49,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] Expressway     | <a href="https://github.com/Seby26Dev/-HTB-SEZ9-Expressway/" > HINTs <a> |
 | [ HTB ] Imagery | SKIP |
 | [ HTB ] DarkZero |  <a href="https://github.com/Seby26Dev/-HTB-SEZ9-DarkZero" > HINTs <a> |
+| [ HTB ] Signed | <a href="https://github.com/Seby26Dev/-HTB-Signed" > HINTs <a> |
 
 
 
