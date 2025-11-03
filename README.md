@@ -52,6 +52,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] Signed | <a href="https://github.com/Seby26Dev/-HTB-Signed" > HINTs <a> |
 | [ HTB ]  Hercules | SKIP ( To Hard ) |
 | [ HTB ]  Conversor | <a href="https://github.com/Seby26Dev/-HTB-Conversor" > HINTs <a> |
+| [ HTB ]  Giveback | <a href="https://github.com/Seby26Dev/-HTB-Giveback" > HINTs <a> |
 
 
 
