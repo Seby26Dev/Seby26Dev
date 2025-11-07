@@ -39,6 +39,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ]  Optimum        | <a href="https://github.com/Seby26Dev/-HTB-Optimum" > Walkthrough <a> |
 | [ HTB ] Certified      | <a href="https://github.com/Seby26Dev/-HTB-Certified" > Walkthrough <a> |
 | [ HTB ] Fluffy        | <a href="https://github.com/Seby26Dev/-HTB-Fluffy" > Walkthrough <a> | 
+| [ HTB ] Artificial   | <a href="https://github.com/Seby26Dev/-HTB-Artificial" > Walkthrough <a> |
 | Summer Scool Mid CTF | <a href="https://github.com/Seby26Dev/SSSV12/tree/main"> Walkthrough </a>  __( Not Translated )__
 
 
