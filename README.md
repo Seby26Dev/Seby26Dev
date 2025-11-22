@@ -51,9 +51,11 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] Imagery | SKIP |
 | [ HTB ] DarkZero |  <a href="https://github.com/Seby26Dev/-HTB-SEZ9-DarkZero" > HINTs <a> |
 | [ HTB ] Signed | <a href="https://github.com/Seby26Dev/-HTB-Signed" > HINTs <a> |
-| [ HTB ]  Hercules | SKIP ( To Hard ) |
+| [ HTB ]  Hercules | SKIP |
 | [ HTB ]  Conversor | <a href="https://github.com/Seby26Dev/-HTB-Conversor" > HINTs <a> |
 | [ HTB ]  Giveback | <a href="https://github.com/Seby26Dev/-HTB-Giveback" > HINTs <a> |
+| [ HTB ]  NanoCorp | SKIP |
+| [ HTB ] Eighteen | <a href="https://github.com/Seby26Dev/-HTB-Eighteen" > HINTs ( No root ) |
 
 
 
