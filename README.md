@@ -41,6 +41,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] Fluffy        | <a href="https://github.com/Seby26Dev/-HTB-Fluffy" > Walkthrough <a> | 
 | [ HTB ] Artificial   | <a href="https://github.com/Seby26Dev/-HTB-Artificial" > Walkthrough <a> |
 | [ HTB ]  Valentine     | <a href="https://github.com/Seby26Dev/-HTB-Valentine/" > Walkthrough <a> |
+| [ HTB ]     BoardLight     | <a href="https://github.com/Seby26Dev/-HTB-BoardLight" > Walkthrough <a> |
 | Summer Scool Mid CTF | <a href="https://github.com/Seby26Dev/SSSV12/tree/main"> Walkthrough </a>  __( Not Translated )__
 
 
@@ -71,6 +72,8 @@ __THM__ ->  <a href="https://github.com/Seby26Dev/-THM-Ignite"> Ignite </a>
 __HTB__ ->   <a href="https://github.com/Seby26Dev/-HTB-Jerry"> Jerry </a>
 
 __HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-Blue/"> Blue </a>
+
+__HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-BoardLight" > BoardLight <a> 
 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-UnderPass"> UnderPass </a>
 
