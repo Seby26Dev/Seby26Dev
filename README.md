@@ -42,6 +42,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] Antique      | <a href="https://github.com/Seby26Dev/-HTB-Antique" > Walkthrough <a> |
 | [ HTB ] Fluffy        | <a href="https://github.com/Seby26Dev/-HTB-Fluffy" > Walkthrough <a> | 
 | [ HTB ] Artificial   | <a href="https://github.com/Seby26Dev/-HTB-Artificial" > Walkthrough <a> |
+| [ HTB ] Nunchucks    | <a href="https://github.com/Seby26Dev/-HTB-Nunchucks" > Walkthrough <a> |
 | [ HTB ]  Valentine     | <a href="https://github.com/Seby26Dev/-HTB-Valentine/" > Walkthrough <a> |
 | [ HTB ]     BoardLight     | <a href="https://github.com/Seby26Dev/-HTB-BoardLight" > Walkthrough <a> |
 | Summer Scool Mid CTF | <a href="https://github.com/Seby26Dev/SSSV12/tree/main"> Walkthrough </a>  __( Not Translated )__
@@ -78,6 +79,8 @@ __HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-Blue/"> Blue </a>
 __HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-BoardLight" > BoardLight <a> 
 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-UnderPass"> UnderPass </a>
+
+__HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Nunchucks" > Nunchucks <a> 
 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-LinkVortex"> LinkVortex </a>
 
