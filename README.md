@@ -20,6 +20,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | Labs                                         | Labs Writeup          |
 |-----------------------------------------------|----------------------------|
 | [ THM ] Lo-Fi          | <a href="https://github.com/Seby26Dev/-THM-Lo-Fi"> Walkthrough </a>|
+| [ HTB ] Backdoor      | <a href="https://github.com/Seby26Dev/-HTB-Backdoor/"> Walkthrough </a>|
 | [ THM ] Ignite           |<a href="https://github.com/Seby26Dev/-THM-Ignite"> Walkthrough </a>|
 | [ THM ] UltraTech         | <a href="https://github.com/Seby26Dev/-THM-UltraTech"> Walkthrough </a>|
 | [ HTB ] Jerry           | <a href="https://github.com/Seby26Dev/-HTB-Jerry"> Walkthrough </a>|
@@ -89,6 +90,8 @@ __HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-Validation/"> Validation 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-EscapeTwo/" > EscapeTwo <a>
 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Legacy" > Legacy </a>
+
+__HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Backdoor/"> Backdoor </a>
 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Bank" > Bank </a>
 
