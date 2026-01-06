@@ -19,8 +19,9 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 
 | Labs                                         | Labs Writeup          |
 |-----------------------------------------------|----------------------------|
-| [ THM ] Lo-Fi          | <a href="https://github.com/Seby26Dev/-THM-Lo-Fi"> Walkthrough </a>|
-| [ HTB ] Backdoor      | <a href="https://github.com/Seby26Dev/-HTB-Backdoor/"> Walkthrough </a>|
+| [ HTB ] Bastion       | <a href="https://github.com/Seby26Dev/-HTB-Bastion" > Walkthrough </a>|
+| [ HTB ] Backdoor      | <a href="https://github.com/Seby26Dev/-HTB-Backdoor/" > Walkthrough </a>|
+| [ THM ] Lo-Fi          | <a href="https://github.com/Seby26Dev/-THM-Lo-Fi" > Walkthrough </a>|
 | [ THM ] Ignite           |<a href="https://github.com/Seby26Dev/-THM-Ignite"> Walkthrough </a>|
 | [ THM ] UltraTech         | <a href="https://github.com/Seby26Dev/-THM-UltraTech"> Walkthrough </a>|
 | [ HTB ] Jerry           | <a href="https://github.com/Seby26Dev/-HTB-Jerry"> Walkthrough </a>|
@@ -80,6 +81,8 @@ __HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-Blue/"> Blue </a>
 __HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-BoardLight" > BoardLight <a> 
 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-UnderPass"> UnderPass </a>
+
+__HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Bastion" > Bastion </a> 
 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Nunchucks" > Nunchucks <a> 
 
