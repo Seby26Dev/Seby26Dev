@@ -15,6 +15,12 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 |-----| -------|
 | <a href="https://github.com/Seby26Dev/SfLp"> WoGr | WriteOwner -> Group -> GenericWrite |
 
+## UNR26-Prep 
+
+| Labs |  Exploit |
+|-----| -------|
+| <a href="https://github.com/Seby26Dev/shark"> shark | XSS  --> SSTI |
+
 ## Labs
 
 | Labs                                         | Labs Writeup          |
