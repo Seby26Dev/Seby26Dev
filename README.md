@@ -15,12 +15,6 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 |-----| -------|
 | <a href="https://github.com/Seby26Dev/SfLp"> WoGr | WriteOwner -> Group -> GenericWrite |
 
-## UNR26-Prep 
-
-| Labs |  Exploit |
-|-----| -------|
-| <a href="https://github.com/Seby26Dev/shark"> shark | XSS  --> SSTI |
-| <a href="https://github.com/Seby26Dev/schematics"> schematics | SQL Inj |
 
 ## Labs
 
@@ -50,6 +44,8 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] Certified      | <a href="https://github.com/Seby26Dev/-HTB-Certified" > Walkthrough <a> |
 | [ HTB ] Antique      | <a href="https://github.com/Seby26Dev/-HTB-Antique" > Walkthrough <a> |
 | [ HTB ] Fluffy        | <a href="https://github.com/Seby26Dev/-HTB-Fluffy" > Walkthrough <a> | 
+| [ CyberEdu ]        | <a href="https://github.com/Seby26Dev/shark">  Walkthrough <a>  __( Not Translated )__ |
+| [ CyberEdu ]        | <a href="https://github.com/Seby26Dev/schematics"> Walkthrough <a> __( Not Translated )__ |
 | [ HTB ] Artificial   | <a href="https://github.com/Seby26Dev/-HTB-Artificial" > Walkthrough <a> |
 | [ HTB ] Nunchucks    | <a href="https://github.com/Seby26Dev/-HTB-Nunchucks" > Walkthrough <a> |
 | [ HTB ]  Valentine     | <a href="https://github.com/Seby26Dev/-HTB-Valentine/" > Walkthrough <a> |
