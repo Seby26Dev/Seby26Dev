@@ -44,8 +44,8 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] Certified      | <a href="https://github.com/Seby26Dev/-HTB-Certified" > Walkthrough <a> |
 | [ HTB ] Antique      | <a href="https://github.com/Seby26Dev/-HTB-Antique" > Walkthrough <a> |
 | [ HTB ] Fluffy        | <a href="https://github.com/Seby26Dev/-HTB-Fluffy" > Walkthrough <a> | 
-| [ CyberEdu ]        | <a href="https://github.com/Seby26Dev/shark">  Walkthrough <a>  __( Not Translated )__ |
-| [ CyberEdu ]        | <a href="https://github.com/Seby26Dev/schematics"> Walkthrough <a> __( Not Translated )__ |
+| [ CyberEdu ] shark     | <a href="https://github.com/Seby26Dev/shark">  Walkthrough <a>  __( Not Translated )__ |
+| [ CyberEdu ]   schematics   | <a href="https://github.com/Seby26Dev/schematics"> Walkthrough <a> __( Not Translated )__ |
 | [ HTB ] Artificial   | <a href="https://github.com/Seby26Dev/-HTB-Artificial" > Walkthrough <a> |
 | [ HTB ] Nunchucks    | <a href="https://github.com/Seby26Dev/-HTB-Nunchucks" > Walkthrough <a> |
 | [ HTB ]  Valentine     | <a href="https://github.com/Seby26Dev/-HTB-Valentine/" > Walkthrough <a> |
