@@ -68,11 +68,11 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] Eighteen | <a href="https://github.com/Seby26Dev/-HTB-Eighteen" > HINTs ( No root ) |
 
 
-| SEZ9 - HTB                                    | HINT         |
+| SEZ10 - HTB                                    | HINT         |
 |-----------------------------------------------|----------------------------|
-| [ HTB ] Facts     | 
-| [ HTB ] Pterodactyl | 
-| [ HTB ] WingData |     
+| [ HTB ] Facts     |  <a href="https://github.com/Seby26Dev/-HTB-Facts" > HINTs <a> 
+| [ HTB ] Pterodactyl |  <a href="https://github.com/Seby26Dev/-HTB-Pterodactyl" > HINTs <a> 
+| [ HTB ] WingData |   <a href="https://github.com/Seby26Dev/-HTB-WingData" > HINTs <a>  
 
 
 
