@@ -36,6 +36,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] EscapeTwo      | <a href="https://github.com/Seby26Dev/-HTB-EscapeTwo/" > Walkthrough <a> |
 | [ HTB ] Chemistry       | <a href="https://github.com/Seby26Dev/-HTB-Chemistry" >  Walkthrough <a> |
 | [ HTB ] Object          | <a href="https://github.com/Seby26Dev/-HTB-Object/" > Walkthrough <a> |
+| [ HTB ] Support           | <a href="https://github.com/Seby26Dev/-HTB-Support" > Walkthrough <a> |
 | [ HTB ] Administrator    | <a href="https://github.com/Seby26Dev/-HTB-Administrator" > Walkthrough <a> |
 | [ THM ]  Year of the Owl | <a href="https://github.com/Seby26Dev/-THM-Year-of-the-Owl/" >  Walkthrough <a> |
 | [ HTB ] Buff            | <a href="https://github.com/Seby26Dev/-HTB-Buff" >  Walkthrough <a> __(_No root)___ |
@@ -91,6 +92,8 @@ __HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-BoardLight" > BoardLight 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-UnderPass"> UnderPass </a>
 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Bastion" > Bastion </a> 
+
+__HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Support" > Support </a>
 
 __HTB__ -> <a href="https://github.com/Seby26Dev/-HTB-Nunchucks" > Nunchucks <a> 
 
