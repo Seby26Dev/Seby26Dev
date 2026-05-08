@@ -52,6 +52,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ]  Valentine     | <a href="https://github.com/Seby26Dev/-HTB-Valentine/" > Walkthrough <a> |
 | [ HTB ]     BoardLight     | <a href="https://github.com/Seby26Dev/-HTB-BoardLight" > Walkthrough <a> |
 | Summer Scool Mid CTF | <a href="https://github.com/Seby26Dev/SSSV12/tree/main"> Walkthrough </a>  __( Not Translated )__
+| Summer Scool Web_Qual | <a href="https://github.com/Seby26Dev/SSS_WEB"> Web_qualifications </a> 
 
 
 
