@@ -32,6 +32,7 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 | [ HTB ] Object          | <a href="https://github.com/Seby26Dev/-HTB-Object/" > Walkthrough <a> |
 | [ HTB ] Support           | <a href="https://github.com/Seby26Dev/-HTB-Support" > Walkthrough <a> |
 | [ HTB ] Administrator    | <a href="https://github.com/Seby26Dev/-HTB-Administrator" > Walkthrough <a> |
+| [ HTB ] Orion            | <a href="https://github.com/Seby26Dev/Orion" > Walkthrough <a> |
 | [ THM ]  Year of the Owl | <a href="https://github.com/Seby26Dev/-THM-Year-of-the-Owl/" >  Walkthrough <a> |
 | [ HTB ] Buff            | <a href="https://github.com/Seby26Dev/-HTB-Buff" >  Walkthrough <a> __(_No root)___ |
 | [ HTB ] TombWatcher      | <a href="https://github.com/Seby26Dev/-HTB-TombWatcher" > Active </a> __(hints)__|
@@ -82,6 +83,8 @@ My main goal is to explore the world of cybersecurity, learn new practical skill
 __THM__ ->  <a href="https://github.com/Seby26Dev/-THM-Ignite"> Ignite </a>
 
 __HTB__ ->   <a href="https://github.com/Seby26Dev/-HTB-Jerry"> Jerry </a>
+
+__HTB__ ->  <a href="https://github.com/Seby26Dev/Orion" > Orion </a>
 
 __HTB__ ->  <a href="https://github.com/Seby26Dev/-HTB-Blue/"> Blue </a>
 
